@@ -1,0 +1,838 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"req",
+				"require"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"app",
+				"app.get(name)"
+			],
+			[
+				"se",
+				"app.set(name, value)"
+			],
+			[
+				"u",
+				"app.use([path,] function [, function...])"
+			],
+			[
+				"for",
+				"for_of"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"nam",
+				"name\tconst"
+			],
+			[
+				"Sim",
+				"SimpleChanges\talias"
+			],
+			[
+				"re",
+				"responseInsert\tgetter"
+			],
+			[
+				"btn-l",
+				"btn-link \tBootstrap 4 Class"
+			],
+			[
+				"ge",
+				"getInsertMessage\tmethod"
+			],
+			[
+				"me",
+				"message.service\tscript"
+			],
+			[
+				"btn-s",
+				"btn-success \tBootstrap 4 Class"
+			],
+			[
+				"btn",
+				"btn-link \tBootstrap 4 Class"
+			],
+			[
+				"bt",
+				"btn-link \tBootstrap 4 Class"
+			],
+			[
+				"s",
+				"string\tkeyword"
+			],
+			[
+				"Ng",
+				"NgForm\talias"
+			],
+			[
+				"mo",
+				"modelService\tproperty"
+			],
+			[
+				"o",
+				"of\talias"
+			],
+			[
+				"OnCh",
+				"ɵNgOnChangesFeature\talias"
+			],
+			[
+				"get",
+				"getInsertMessage\tmethod"
+			],
+			[
+				"messa",
+				"MessageService\talias"
+			],
+			[
+				"m",
+				"message.service\tscript"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"Mess",
+				"MessageService\talias"
+			],
+			[
+				"self",
+				"selform\tparameter"
+			],
+			[
+				"tabl",
+				"table-hover \tBootstrap 4 Class"
+			],
+			[
+				"Model",
+				"ModelService\talias"
+			],
+			[
+				"ser",
+				"service\tdirectory"
+			],
+			[
+				"impor",
+				"import\tkeyword"
+			],
+			[
+				"from",
+				"form-control \tBootstrap 4 Class"
+			],
+			[
+				"form",
+				"form-control-danger \tBootstrap 4 Class"
+			],
+			[
+				"N",
+				"NgForm\talias"
+			],
+			[
+				"For",
+				"FormsModule\tclass"
+			],
+			[
+				"f",
+				"forms\tdirectory"
+			],
+			[
+				"true",
+				"true\tkeyword"
+			],
+			[
+				"ret",
+				"return\tkeyword"
+			],
+			[
+				"th",
+				"this\tkeyword"
+			],
+			[
+				"in",
+				"indexOf\tmethod"
+			],
+			[
+				"p-",
+				"p-2 \tBootstrap 4 Class"
+			],
+			[
+				"navba",
+				"navbar-nav \tBootstrap 4 Class"
+			],
+			[
+				"jus",
+				"justify-content-start \tBootstrap 4 Class"
+			],
+			[
+				"just",
+				"justify-content-end \tBootstrap 4 Class"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"navbar",
+				"navbar-light \tBootstrap 4 Class"
+			],
+			[
+				"nav-",
+				"nav-item \tBootstrap 4 Class"
+			],
+			[
+				"na",
+				"navbar-light \tBootstrap 4 Class"
+			],
+			[
+				"nav",
+				"navbar \tBootstrap 4 Class"
+			],
+			[
+				"col",
+				"col-6 \tBootstrap 4 Class"
+			],
+			[
+				"ro",
+				"row \tBootstrap 4 Class"
+			],
+			[
+				"de",
+				"detail.component\tscript"
+			],
+			[
+				"imp",
+				"import\tkeyword"
+			],
+			[
+				"Ro",
+				"Routes\talias"
+			],
+			[
+				"Rou",
+				"RouterModule\talias"
+			],
+			[
+				"Route",
+				"Routes\talias"
+			],
+			[
+				"val",
+				"value\tproperty"
+			],
+			[
+				"Mode",
+				"ModelService\talias"
+			],
+			[
+				"mode",
+				"model.service\tscript"
+			],
+			[
+				"E",
+				"editModel\tproperty"
+			],
+			[
+				"Eve",
+				"EventEmitter\talias"
+			],
+			[
+				"edi",
+				"editModel"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"r",
+				"router\tdirectory"
+			],
+			[
+				"Paym",
+				"PaymentComponent\talias"
+			],
+			[
+				"pro",
+				"profile.component\tscript"
+			],
+			[
+				"c",
+				"components\tdirectory"
+			],
+			[
+				"Tra",
+				"TransactionComponent\talias"
+			],
+			[
+				"t",
+				"transaction.component\tscript"
+			],
+			[
+				"Rout",
+				"Routes\talias"
+			],
+			[
+				"In",
+				"Input\talias"
+			],
+			[
+				"model",
+				"modelService\tproperty"
+			],
+			[
+				"Bo",
+				"Boolean\tconst"
+			],
+			[
+				"p",
+				"push\tmethod"
+			],
+			[
+				"nm",
+				"NgForm\talias"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"bor",
+				"border-left\tproperty"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"service",
+				"serv1.service\tscript"
+			],
+			[
+				"Com",
+				"Comp1Component\talias"
+			],
+			[
+				"messag",
+				"messageService"
+			],
+			[
+				"spl",
+				"splice\t( start: int, deleteCount: int, items_..: any ): Array Array"
+			],
+			[
+				"ind",
+				"indexOf\t( searchString: string, position?: int ): int String"
+			],
+			[
+				"resul",
+				"result"
+			],
+			[
+				"vali",
+				"validateObj〔function〕"
+			],
+			[
+				"cou",
+				"course"
+			],
+			[
+				"consol",
+				"console_log"
+			],
+			[
+				"exp",
+				"express"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"Hero",
+				"Hero\talias"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"Form",
+				"FormsModule\talias"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"Obje",
+				"Object〔class〕"
+			],
+			[
+				"O",
+				"Object\t( value?: any ): Object Object"
+			],
+			[
+				"fun",
+				"function\tkeyword"
+			],
+			[
+				"let",
+				"let\tkeyword"
+			],
+			[
+				"d",
+				"defineProperty"
+			],
+			[
+				"num",
+				"numpy〔module〕"
+			],
+			[
+				"ten",
+				"tensorflow〔module〕"
+			],
+			[
+				"te",
+				"tensorflow〔module〕"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"cls",
+				"cls"
+			],
+			[
+				"__",
+				"__package__\tinstance"
+			],
+			[
+				"str",
+				"str\tstatement"
+			],
+			[
+				"fib",
+				"fib_r\tfunction"
+			],
+			[
+				"fi",
+				"fin_r\tfunction"
+			],
+			[
+				"fib_",
+				"fib_r"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"cwind",
+				"cwind2"
+			],
+			[
+				"telnet",
+				"telnet"
+			],
+			[
+				"null",
+				"null"
+			],
+			[
+				"udp",
+				"udp"
+			],
+			[
+				"att",
+				"attach-agent"
+			],
+			[
+				"ifql",
+				"ifqlen"
+			],
+			[
+				"cha",
+				"Channal"
+			],
+			[
+				"ns",
+				"ns3"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: DIS",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"virtualenv",
+				"Virtualenv: Activate"
+			],
+			[
+				"vir",
+				"Virtualenv: Activate"
+			]
+		],
+		"width": 585.0
+	},
+	"console":
+	{
+		"height": 668.0,
+		"history":
+		[
+			"restart"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/roshan/workspace/Express/Server",
+		"/home/roshan/workspace/Express/Server/.je-project-settings"
+	],
+	"file_history":
+	[
+		"/home/roshan/workspace/Express/Server/.flowconfig",
+		"/home/roshan/workspace/Express/Server/package.json",
+		"/home/roshan/workspace/Express/Server/.je-project-settings/express_settings.json",
+		"/home/roshan/workspace/Express/Server/Server.sublime-project",
+		"/home/roshan/workspace/MEAN/CRUD/Server/package.json",
+		"/home/roshan/workspace/MEAN/CRUD/Server/dbconnect.js",
+		"/home/roshan/workspace/MEAN/CRUD/Server/flow-typed/npm/mongoose_v4.x.x.js",
+		"/home/roshan/workspace/MEAN/CRUD/Server/models/employee.js",
+		"/home/roshan/workspace/MEAN/CRUD/Server/index.js",
+		"/home/roshan/workspace/MEAN/CRUD/Server/flow-typed/npm/express_v4.x.x.js",
+		"/home/roshan/.config/sublime-text-3/Packages/TerminalView/README.md",
+		"/home/roshan/workspace/Express/REST/package.json",
+		"/home/roshan/workspace/MEAN/CRUD/Server/controllers/employeeController.js",
+		"/home/roshan/.config/sublime-text-3/Packages/User/Babel.sublime-settings",
+		"/home/roshan/.config/sublime-text-3/Packages/NodeRequirer/NodeRequirer.sublime-settings",
+		"/home/roshan/.config/sublime-text-3/Packages/Babel/Babel.sublime-settings",
+		"/home/roshan/.bashrc",
+		"/home/roshan/.profile",
+		"/home/roshan/.config/sublime-text-3/Packages/JavaScript Completions/JavaScript-Completions.sublime-settings",
+		"/home/roshan/.config/sublime-text-3/Packages/User/JavaScript-Completions.sublime-settings",
+		"/home/roshan/workspace/Angular/TestInput/src/app/component/detail/detail.component.html",
+		"/home/roshan/workspace/Angular/TestInput/src/app/component/detail/detail.component.ts",
+		"/home/roshan/workspace/Angular/TestInput/src/app/component/form/form.component.css",
+		"/home/roshan/workspace/Angular/TestInput/src/app/component/form/form.component.ts",
+		"/home/roshan/workspace/Angular/TestInput/src/app/component/message/message.component.html",
+		"/home/roshan/workspace/Angular/TestInput/src/app/component/message/message.component.ts",
+		"/home/roshan/workspace/Angular/TestInput/src/app/component/form/form.component.html",
+		"/home/roshan/workspace/Angular/TestInput/.git/config",
+		"/home/roshan/workspace/Angular/TestInput/src/app/service/model/model.service.ts",
+		"/home/roshan/.ssh/known_hosts",
+		"/home/roshan/workspace/Angular/TestInput/src/app/service/message/message.service.ts",
+		"/home/roshan/workspace/Angular/TestInput/src/app/app.module.ts",
+		"/home/roshan/%F",
+		"/home/roshan/workspace/Angular/TestInput/src/app/component/detail/detail.component.spec.ts",
+		"/home/roshan/workspace/Angular/TestInput/src/app/service/model/model.ts",
+		"/home/roshan/.config/sublime-text-3/Packages/TypeScript/TypeScript.sublime-settings",
+		"/home/roshan/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/roshan/.config/sublime-text-3/Packages/TypeScript/Preferences.sublime-settings",
+		"/home/roshan/workspace/Angular/TestInput/src/app/app.component.html",
+		"/home/roshan/workspace/Angular/TestInput/src/app/app-routing.module.ts",
+		"/home/roshan/workspace/Angular/TestInput/src/app/app.component.css",
+		"/home/roshan/workspace/Angular/TestInput/src/index.html",
+		"/home/roshan/workspace/Angular/TestInput/src/app/app.component.ts",
+		"/home/roshan/workspace/Angular/TestInput/src/app/service/model/model.service.spec.ts",
+		"/home/roshan/workspace/Angular/First/src/app/app.component.html",
+		"/home/roshan/workspace/Angular/First/src/app/app.component.ts",
+		"/home/roshan/workspace/Angular/First/src/app/form/form.component.ts",
+		"/home/roshan/workspace/Angular/First/src/app/form/form.component.html",
+		"/home/roshan/workspace/Angular/First/src/app/update/update.component.html",
+		"/home/roshan/workspace/Angular/First/src/app/update/update.component.ts",
+		"/home/roshan/workspace/Angular/First/src/app/model/model.service.ts",
+		"/home/roshan/workspace/Angular/First/src/app/model/model.ts",
+		"/home/roshan/workspace/Angular/First/src/app/details/details.component.ts",
+		"/home/roshan/workspace/Angular/First/src/app/details/details.component.html",
+		"/home/roshan/workspace/Angular/GroupHead/src/styles.css",
+		"/home/roshan/workspace/Angular/GroupHead/src/index.html",
+		"/home/roshan/workspace/Angular/GroupHead/src/app/components/profile/profile.component.ts",
+		"/home/roshan/workspace/Angular/GroupHead/src/app/components/profile/profile.component.spec.ts",
+		"/home/roshan/workspace/Angular/GroupHead/README.md",
+		"/home/roshan/workspace/Angular/GroupHead/src/app/app-routing.module.ts",
+		"/home/roshan/workspace/Angular/GroupHead/src/app/app.component.ts",
+		"/home/roshan/workspace/Angular/GroupHead/src/app/app.component.html",
+		"/home/roshan/workspace/Angular/GroupHead/src/app/app.component.css",
+		"/home/roshan/workspace/Angular/GroupHead/src/app/model/model.ts",
+		"/home/roshan/workspace/Angular/GroupHead/src/app/app.module.ts",
+		"/home/roshan/workspace/Angular/First/src/app/app.component.css",
+		"/home/roshan/workspace/Angular/First/src/app/details/details.component.css",
+		"/home/roshan/workspace/Angular/First/src/styles.css",
+		"/home/roshan/workspace/Angular/First/src/app/form/form.component.css",
+		"/home/roshan/workspace/Angular/First/src/app/app.module.ts",
+		"/home/roshan/workspace/Angular/First/src/app/model/modelObj.ts",
+		"/home/roshan/workspace/Angular/First/src/app/model.ts",
+		"/home/roshan/workspace/Angular/First/src/index.html",
+		"/home/roshan/workspace/Angular/First/src/app/app-routing.module.ts",
+		"/home/roshan/workspace/Express/REST/index.js",
+		"/home/roshan/workspace/Angular/helloworld/src/app/comp1/comp1.component.ts",
+		"/home/roshan/workspace/Angular/helloworld/src/app/messages/messages.component.html",
+		"/home/roshan/workspace/Angular/helloworld/src/app/comp2/comp2.component.html",
+		"/home/roshan/workspace/Angular/helloworld/src/app/comp2/comp2.component.ts",
+		"/home/roshan/workspace/Angular/helloworld/src/app/comp2/comp2.component.spec.ts",
+		"/home/roshan/.tern-config",
+		"/home/roshan/workspace/JS/first.js",
+		"/home/roshan/.config/sublime-text-3/Packages/tern_for_sublime/Tern.sublime-settings",
+		"/home/roshan/.config/sublime-text-3/Packages/User/Tern.sublime-settings",
+		"/home/roshan/.config/sublime-text-3/Packages/tern_for_sublime/JavaScript.sublime-settings",
+		"/home/roshan/.config/sublime-text-3/Packages/tern_for_sublime/package.json",
+		"/home/roshan/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/home/roshan/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/roshan/workspace/MEAN/CRUD/Server/views/index.html",
+		"/home/roshan/workspace/Angular/helloworld/src/app/app.module.ts",
+		"/home/roshan/workspace/Biztime/first/angular.json",
+		"/home/roshan/workspace/MEAN/CRUD/Server/models",
+		"/home/roshan/workspace/Express/HelloWorld/package.json",
+		"/home/roshan/workspace/Express/HelloWorld/views/layout.jade",
+		"/home/roshan/workspace/Express/HelloWorld/public/stylesheets/style.css",
+		"/home/roshan/workspace/Express/HelloWorld/views/error.jade",
+		"/usr/local/lib/node_modules/express-generator/bin/express-cli.js",
+		"/home/roshan/workspace/Express/package.json",
+		"/home/roshan/workspace/Angular/helloworld/src/app/comp1/comp1.component.html",
+		"/home/roshan/workspace/Angular/helloworld/src/app/obj-heroes.ts",
+		"/home/roshan/workspace/Angular/helloworld/src/app/comp1/comp1.component.css",
+		"/home/roshan/workspace/Angular/helloworld/src/app/app.component.html",
+		"/home/roshan/workspace/Angular/helloworld/src/index.html",
+		"/home/roshan/workspace/Angular/helloworld/src/styles.css",
+		"/home/roshan/workspace/Angular/helloworld/src/app/hero.ts",
+		"/home/roshan/workspace/Angular/helloworld/src/app/app.component.ts",
+		"/home/roshan/workspace/Angular/helloworld/src/app/app.component.css",
+		"/home/roshan/workspace/JS/test.ts",
+		"/home/roshan/workspace/JS/First.js",
+		"/home/roshan/workspace/JS/StopWatch.js",
+		"/home/roshan/workspace/JS/test.js",
+		"/home/roshan/workspace/JS/first.ts",
+		"/home/roshan/workspace/JS/sec.ts",
+		"/home/roshan/workspace/JS/se.js",
+		"/home/roshan/.bash_history",
+		"/home/roshan/.config/sublime-text-3/Packages/User/Node.sublime-build",
+		"/home/roshan/.config/sublime-text-3/Packages/SublimeCodeIntel/Default (Linux).sublime-mousemap",
+		"/home/roshan/workspace/JS/test.py",
+		"/home/roshan/.codeintel/db/python/fc838eaaa3cc6c8dd5c120edf94d6372/path",
+		"/home/roshan/.codeintel/db/javascript/963f7bbfeaa42cf4e9056118741bb24a/0017cb42c544d74d6a5bca54f5e318df.blob",
+		"/home/roshan/.codeintel/db/javascript/963f7bbfeaa42cf4e9056118741bb24a/path",
+		"/home/roshan/.codeintel/VERSION",
+		"/home/roshan/.codeintel/README.txt",
+		"/home/roshan/.codeintel/db/python/4731fc4d5d187e2eeaccc56c5e0711cb/path",
+		"/home/roshan/.config/sublime-text-3/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
+		"/home/roshan/workspace/JS/c.css",
+		"/home/roshan/workspace/JS/First.ja",
+		"/usr/bin/robomongo/COPYRIGHT"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Node.sublime-build",
+	"project": "Server.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 732.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
