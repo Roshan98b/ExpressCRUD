@@ -7,14 +7,27 @@ var Models = require('../model/model');
 var router = express.Router();
 
 // Form: POST
-router.post('/form', (req, res) => {
+router.post('/view', (req, res) => {
 	var model = new Models({
 		username: req.body.username,
 		email: req.body.email
 	});
 	Models.addModel(model, (err, model) => {
+		if(err) {
+			res.send('failed\n');
+			console.log('Failed Insert');
+		}
+		else {
+			res.send('success\n');
+		}
+	});
+});
+
+// View: GET all
+router.get('/view', (req,res) => {
+	Models.getModel((err, model) => {
 		if(err) res.send('failed\n');
-		else res.send('success\n');
+		else res.json(model);
 	});
 });
 
@@ -32,6 +45,7 @@ router.get('/view/:username', (req, res) => {
 // View: PUT
 router.put('/view/:username', (req, res) => {
 	var model = {
+		username: req.body.username,
 		email: req.body.email
 	};
 	Models.putModelByUsername(req.params.username, model, (err, model) => {

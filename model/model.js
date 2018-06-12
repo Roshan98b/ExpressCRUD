@@ -22,6 +22,11 @@ module.exports.addModel = (model, callback) => {
 	model.save(callback);
 };
 
+// Read All
+module.exports.getModel = (callback) => {
+	Model.find(callback);
+};
+
 // Read
 module.exports.getModelByUsername = (username, callback) => {
 	var query = {username : username}; 

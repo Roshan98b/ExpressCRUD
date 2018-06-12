@@ -29,12 +29,12 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended:false}));
 
 // CORS
-app.use(cors());
+app.use(cors({origin: 'http://localhost:4200'}));
 
 // Users route
 app.use('/users',users);
 
-app.get('*', (req,res) => {
+app.get('*', (req, res) => {
 	res.send('URL does not exist');
 });
 
